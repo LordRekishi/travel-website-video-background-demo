@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55c7998ef40e4cb796b070dc9a25139f3cecba7d3e4e28570cce51268b082f40
-size 375
+# Travel Website with Video background Demo
+
+This demo is made while following [an amazing tutorial](https://youtu.be/8MgpE2DTTKA) made by [Traversy Media](https://www.youtube.com/@TraversyMedia). A simple travel website with a video background.
+
+### Screenshots
+
+#### Moving video background, basic hamburger menu and animated buttons.
+
+![Screenshot](/img/screenshot_1.png)
